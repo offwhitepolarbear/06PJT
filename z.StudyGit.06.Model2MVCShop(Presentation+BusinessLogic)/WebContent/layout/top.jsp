@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop : 추가하고 수정됨</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
